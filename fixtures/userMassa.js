@@ -36,7 +36,7 @@ module.exports.array = [
     "lastName": "Pereira",
     "email": "ana.pereira@gmail.com",
     "password": "ana@456",
-    "phone": "41934567890",
+    "phone": "41934567899",
     "userStatus": 0
   }
 ]
