@@ -14,9 +14,9 @@ describe('API petStore Swagger - User', () => {
 
         expect(res.body.id).toBe(297537609);
         expect(res.body.username).toBe(userName);
-        expect(res.body.firstName).toBe("Indiana");
-        expect(res.body.lastName).toBe("Jones");
-        expect(res.body.email).toBe("indiana.jones@gmail.com");
+        expect(res.body.firstName).toBe("Gabriel");
+        expect(res.body.lastName).toBe("Marques");
+        expect(res.body.email).toBe("gabriel.marques@gmail.com");
         expect(res.body.password).toBe("@arca1881");
         expect(res.body.phone).toBe("66986765544");
         expect(res.body.userStatus).toBe(0);
